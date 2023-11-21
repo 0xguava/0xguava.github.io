@@ -1,0 +1,38 @@
+body {
+  background-color: whitesmoke;
+  font-family: monospace;
+
+}
+
+#hcontainer {
+  display: flex;
+  justify-content: center;
+}
+
+#ccontainer {
+  display: flex;
+  justify-content: center;
+}
+
+#heading {
+  padding: 25px;
+  width: 600px;
+  font-size: 22px;
+  font-style: italic;
+  font-variant: small-caps;
+  text-align: center;
+  border: 2px solid;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#content {
+  padding: 25px;
+  border: 2px solid; 
+  height: 300px;
+  width: 800px;
+  font-size: 18px;
+  font-variant: small-caps;
+  text-align: center;
+}
+
