@@ -1,7 +1,7 @@
 body {
   background-color: whitesmoke;
   font-family: monospace;
-
+  font-variant: small-caps;
 }
 
 #hcontainer {
@@ -19,7 +19,6 @@ body {
   width: 600px;
   font-size: 22px;
   font-style: italic;
-  font-variant: small-caps;
   text-align: center;
   border: 2px solid;
   margin-top: 20px;
@@ -29,10 +28,8 @@ body {
 #content {
   padding: 25px;
   border: 2px solid; 
-  height: 300px;
   width: 800px;
   font-size: 18px;
-  font-variant: small-caps;
   text-align: center;
 }
 
