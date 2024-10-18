@@ -1,0 +1,81 @@
+baseURL: "https://ori-test.lol"
+title: Aditya Dhengre
+copyright: "© [Aditya Dhengre](https://github.com/0xguava)"
+paginate: 4
+theme: [hugo-PaperMod]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+  main:
+    - name: About
+      url: about
+      weight: 5
+    - name: Blog
+      url: blog/
+      weight: 10
+    - name: Projects
+      url: projects/
+      weight: 10
+    - name: Contact
+      url: contact 
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: Blogsite of Aditya, powered by hugo-PaperMod
+  author: Aditya Dhengre
+
+  defaultTheme: dark
+  disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  # comments: false
+  # images: ["images/papermod-cover.png"]
+
+  homeInfoParams:
+    Title: "Intro to this Page"
+    Content: >
+      Hi, Welcome to this page. 
+
+      - I am Aditya Dhengre and I am a Linux user and FOSS enthusiast. 
+
+      - I prefer striking on keyboard, than sliding fingers through laptop's (smooth) touchpad. Anyways, entering commands on terminal suits me than navigating through fancy GUI.
+
+      - I am mostly self taught and I learned about **Linux** and **FOSS** from blogs and documentation. There are other ways for learning, but I prefer reading than just sitting and watching someone talk. 
+
+      - Currently, [Void Linux](https://voidlinux.org/) is my daily driver previously I was using [Archlinux](https://archlinux.org).  
+
+
+  socialIcons:
+    - name: nf-md-cat
+      url: https://cat-bounce.com
+
+
+  assets:
+    disableHLJS: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
