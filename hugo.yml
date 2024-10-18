@@ -52,9 +52,9 @@ params:
   # images: ["images/papermod-cover.png"]
 
   homeInfoParams:
-    Title: "Intro to this Page"
+    Title: "Brief INTRO to myself"
     Content: >
-      Hi, Welcome to this page. 
+      👋 Hi, Welcome to this page. 
 
       - I am Aditya Dhengre and I am a Linux user and FOSS enthusiast. 
 
@@ -62,7 +62,7 @@ params:
 
       - I am mostly self taught and I learned about **Linux** and **FOSS** from blogs and documentation. There are other ways for learning, but I prefer reading than just sitting and watching someone talk. 
 
-      - Currently, [Void Linux](https://voidlinux.org/) is my daily driver previously I was using [Archlinux](https://archlinux.org).  
+      - Currently, [Void Linux](https://voidlinux.org/) is my daily driver previously **I was using [Arch](https://archlinux.org) btw!**.  
 
 
   socialIcons:
