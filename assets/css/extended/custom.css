@@ -1,8 +1,23 @@
 /* Custom styles added to demo */
 
-/* body { */
+/* .dark body { */
 /*   background-color: #000000 */
 /* } */
+
+.dark {
+  --theme: #000000;
+}
+
+.entry-content a {
+  /* color: var(--secondary); */
+  font-weight: bold;
+  /* text-decoration: underline; */
+  border-bottom: 1px solid;
+}
+
+strong {
+  color: #ffffff;
+}
 
 .twitter-tweet {
     margin: auto;
