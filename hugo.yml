@@ -1,5 +1,5 @@
 baseURL: "https://ori-test.lol"
-title: Aditya Dhengre
+title: 0xguava.github.io
 copyright: "© [Aditya Dhengre](https://github.com/0xguava)"
 paginate: 4
 theme: [hugo-PaperMod]
@@ -25,10 +25,10 @@ menu:
       url: blog/
       weight: 10
     - name: Projects
-      url: projects/
+      url: projects
       weight: 10
-    - name: Contact
-      url: contact 
+    # - name: Contact
+    #   url: contact 
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -52,22 +52,24 @@ params:
   # images: ["images/papermod-cover.png"]
 
   homeInfoParams:
-    Title: "Brief INTRO to myself"
+    Title: "A Brief intR0,"
     Content: >
       👋 Hi, Welcome to this page. 
 
-      - I am Aditya Dhengre and I am a Linux user and FOSS enthusiast. 
+      - I am **Aditya Dhengre**, a Linux user and FOSS enthusiast. 
 
-      - I prefer striking on keyboard, than sliding fingers through laptop's (smooth) touchpad. Anyways, entering commands on terminal suits me than navigating through fancy GUI.
+      - I prefer striking on keyboard, than sliding fingers through laptop's (smooth) touchpad. Anyways, entering commands in terminal suits me than navigating through fancy GUI.
 
       - I am mostly self taught and I learned about **Linux** and **FOSS** from blogs and documentation. There are other ways for learning, but I prefer reading than just sitting and watching someone talk. 
 
       - Currently, [Void Linux](https://voidlinux.org/) is my daily driver previously **I was using [Arch](https://archlinux.org) btw!**.  
 
+      - If looking forward to know more then, [About](about/) section is the best place.
 
-  socialIcons:
-    - name: nf-md-cat
-      url: https://cat-bounce.com
+
+  # socialIcons:
+  #   - name: bitcoin
+  #     url: https://cat-bounce.com
 
 
   assets:
