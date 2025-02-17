@@ -10,4 +10,5 @@ disableShare : true
 
 **Hello,** 
 
-*I use Arch btw!*
+I am Aditya Dhengre, currently pursuing Bachelor of Engineering in Computer Science from [SSGMCE, Shegaon](https://ssgmce.ac.in/). 
+

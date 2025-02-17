@@ -6,19 +6,27 @@
 
 .dark {
   --theme: #000000;
+  --entry: #1B1B1B;
 }
 
 .entry-content a {
-  /* color: var(--secondary); */
-  font-weight: bold;
-  /* text-decoration: underline; */
-  border-bottom: 1px solid;
+  font-weight: 600;
+  border-bottom: 1px solid var(--primary);
+}
+
+.post-content a {
+  font-weight: 600;
 }
 
 strong {
-  color: #ffffff;
+  color: var(--primary);
 }
 
+.share-buttons {
+  background: var(--entry);
+}
+
+/*Def config below*/
 .twitter-tweet {
     margin: auto;
 }
