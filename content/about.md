@@ -10,5 +10,5 @@ disableShare : true
 
 **Hello,** 
 
-I am Aditya Dhengre, currently pursuing Bachelor of Engineering in Computer Science from [SSGMCE, Shegaon](https://ssgmce.ac.in/). 
+I am Aditya Dhengre, currently pursuing Bachelor of Engineering in Computer Science and Engineering from [SSGMCE, Shegaon](https://ssgmce.ac.in/). 
 
