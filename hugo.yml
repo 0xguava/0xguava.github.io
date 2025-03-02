@@ -54,17 +54,15 @@ params:
   homeInfoParams:
     Title: "A Brief intR0,"
     Content: >
-      👋 Hi, Welcome to this page. 
+      😃 Hi, I am **Aditya Dhengre**. 
 
-      - I am **Aditya Dhengre**, a Linux user and FOSS enthusiast. 
+      - This place is for **documenting** my daily technical endeavors. 
 
-      - I prefer striking the keyboard over sliding fingers across laptop's (smooth) touchpad. Entering commands in the terminal suits me than navigating through fancy GUIs.
+      - Currently daily driving [Void Linux](https://voidlinux.org/).  
+    
+      - I am mostly **self taught**, I've learned about **Linux** and **FOSS** from blogs and documentation. There are many ways for learning, but I prefer reading rather than just watching tutorials. 
 
-      - I am mostly self taught, I've learned about **Linux** and **FOSS** from blogs and documentation. There are many ways for learning, but I prefer reading rather than just watching tutorials. 
-
-      - Currently, [Void Linux](https://voidlinux.org/) is my daily driver. Previously, **I was using [Arch](https://archlinux.org) btw!**.  
-
-      - If looking forward to know more then, [About](about/) section is the best place.
+      - Looking forward to know more? Check [this](about/) out.
 
 
   # socialIcons:
