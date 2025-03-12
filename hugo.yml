@@ -68,9 +68,9 @@ params:
       - Looking forward to know more? Check [this](about/) out.
 
 
-  # socialIcons:
-  #   - name: bitcoin
-  #     url: https://cat-bounce.com
+  socialIcons:
+    - name: github
+      url: https://github.com/0xguava
 
 
   assets:
