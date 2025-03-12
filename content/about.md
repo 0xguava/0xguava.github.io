@@ -31,6 +31,5 @@ Local Servers *(looking forward work on an Enterprise server)*
 
 **Application** of skills mentioned above can be found in [blogs](/blog) and [projects](/projects).
 
-
- 
-
+### Contact 
+- [Email](mailto:demo.lappy@protonmail.com)
