@@ -15,8 +15,8 @@ Aditya Vilas Dhengre is an undergraduate at [Shri Sant Gajanan Maharaj College o
 pursuing Bachelor of Engineering in Computer Science and Engineering. 
 
 Aditya has keen interest in learning and developing new skills.
-He started his tech journey 3 years ago by switching to **GNU/Linux**. Since then, Aditya is been learning about linux and GNU softwares
-and he can perform its installation, service management, drive management(including drive encryption), networking and etc.  
+His tech journey started 3 years ago when he switched to **GNU/Linux**. Since then, Aditya is been learning about linux and GNU softwares.
+<!-- and he can perform installation and management of any linux distro, service management, drive management(including drive encryption), networking and etc.   -->
 
 <!-- ### Aditya's skillset -->
 <!-- - C programming -->
