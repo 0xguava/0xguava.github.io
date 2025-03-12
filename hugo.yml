@@ -24,7 +24,7 @@ menu:
       url: about
       weight: 5
     - name: Blog
-      url: blog/
+      url: blogs/
       weight: 10
     - name: Projects
       url: projects

@@ -29,7 +29,7 @@ makes him fit perfectly in this domain.
 Local Servers *(looking forward work on an Enterprise server)*
 - Other: *(Currently learning)*
 
-**Application** of skills mentioned above can be found in [blogs](/blog) and [projects](/projects).
+**Application** of skills mentioned above can be found in [blogs](/blogs) and [projects](/projects).
 
 ### Contact 
 - [Email](mailto:demo.lappy@protonmail.com)
