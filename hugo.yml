@@ -71,6 +71,14 @@ params:
   socialIcons:
     - name: github
       url: https://github.com/0xguava
+    - name: linkedin
+      url: https://www.linkedin.com/in/adityadhengre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+    - name: telegram
+      url: https://t.me/jcbs90
+    - name: x 
+      url: https://x.com/xyzZyx48515290?t=MQ5NQg81TSPZ77gCLdXygQ&s=35
+    - name: email
+      url: mailto:demo.lappy@protonmail.com
 
 
   assets:
