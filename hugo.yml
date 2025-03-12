@@ -12,6 +12,8 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 
+googleAnalytics: UA-123-45
+
 minify:
   disableXML: true
   minifyOutput: true
@@ -34,6 +36,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: Blogsite of Aditya, powered by hugo-PaperMod
   author: Aditya Dhengre
+  DateFormat: "January 2, 2006"
 
   defaultTheme: dark
   disableThemeToggle: true
@@ -60,7 +63,7 @@ params:
 
       - Currently daily driving [Void Linux](https://voidlinux.org/).  
     
-      - I am mostly **self taught**, I've learned about **Linux** and **FOSS** from blogs and documentation. There are many ways for learning, but I prefer reading rather than just watching tutorials. 
+      - I am mostly **self taught**, I've learned about **Linux** and **FOSS** from blogs and documentation. There are many ways for learning, but I prefer reading than just watching tutorials. 
 
       - Looking forward to know more? Check [this](about/) out.
 
@@ -72,6 +75,9 @@ params:
 
   assets:
     disableHLJS: true
+    favicon: "favicons/favicon.ico"
+    favicon16x16: "favicons/favicon-16x16.png"
+    favicon32x32: "favicons/favicon-32x32.png"
 
 markup:
   goldmark:
