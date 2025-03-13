@@ -35,11 +35,5 @@ Local Servers *(looking forward work on an Enterprise server)*
 
 ---
 
-### Links 
-- [Github](https://github.com/0xguava), [LinkedIn](https://www.linkedin.com/in/adityadhengre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-and [etc](https://cat-bounce.com)
-
----
-
-### Contact 
-- [Email](mailto:demo.lappy@protonmail.com)
+### Contact/Collaborate 
+- [Email](mailto:demo.lappy@protonmail.com), [Github](https://github.com/0xguava), [LinkedIn](https://www.linkedin.com/in/adityadhengre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
