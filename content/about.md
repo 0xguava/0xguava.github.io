@@ -23,6 +23,8 @@ by reading documentations, blog posts, forums and seeking community help.
 His domain specialization is **System and Network Adminstration**. The choice he made three years ago
 makes him fit perfectly in this domain.
 
+---
+
 ### Skills
 - Languages: C *(programming)*, Bash *(scripting)*
 - Can configure/setup *(use case specific)*: Linux systems, Networks, Virtual machines,
@@ -30,6 +32,14 @@ Local Servers *(looking forward work on an Enterprise server)*
 - Other: *(Currently learning)*
 
 **Application** of skills mentioned above can be found in [blogs](/blogs) and [projects](/projects).
+
+---
+
+### Links 
+- [Github](https://github.com/0xguava), [LinkedIn](https://www.linkedin.com/in/adityadhengre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+and [etc](https://cat-bounce.com)
+
+---
 
 ### Contact 
 - [Email](mailto:demo.lappy@protonmail.com)
