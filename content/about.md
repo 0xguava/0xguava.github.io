@@ -31,9 +31,10 @@ makes him fit perfectly in this domain.
 Local Servers *(looking forward work on an Enterprise server)*
 - Other: *(Currently learning)*
 
-**Application** of skills mentioned above can be found in [blogs](/blogs) and [projects](/projects).
+**Application** of the skills mentioned above can be found in [blogs](/blogs) and [projects](/projects).
 
 ---
 
 ### Contact/Collaborate 
-- [Email](mailto:demo.lappy@protonmail.com), [Github](https://github.com/0xguava), [LinkedIn](https://www.linkedin.com/in/adityadhengre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Email](mailto:demo.lappy@protonmail.com), [Github](https://github.com/0xguava) and
+[LinkedIn](https://www.linkedin.com/in/adityadhengre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
