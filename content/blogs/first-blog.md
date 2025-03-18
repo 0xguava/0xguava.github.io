@@ -21,8 +21,8 @@ Since this is my first blog
 [remojI](https://remoji.com)
 
 #### How to install
-```
-# xbps-query -S lvm cryptsetup curl
+```bash
+xbps-query -S lvm cryptsetup curl
 ```
 #### Highlighed the above
 {{< highlight bash >}}
