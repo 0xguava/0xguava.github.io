@@ -3,11 +3,10 @@ author : ' '
 title : 'Projects'
 ShowShareButtons : false
 ShowReadingTime : false
-ShowPostNavLinks : true
+ShowPostNavLinks : false
 ShowBreadCrumbs : true
 disableShare : true
-showToc: false 
+showToc: true 
 ---
 
-{{< gitrepocard url="https://github.com/0xguava/auto-install" name="Auto-Install" description="Unattended installtion for the mighty Archlinux" language="bash" forks="1" stars="0" >}}
-
+{{< gitrepocard url="https://github.com/0xguava/auto-install" name="0xguava/auto-install" description="Unattended installation for the mighty Archlinux" language="bash" forks="1" stars="0" >}}
