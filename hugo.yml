@@ -12,7 +12,7 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 
-googleAnalytics: UA-123-45
+# googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -32,8 +32,14 @@ menu:
     - name: Timeline 
       url: timeline
       weight: 50
-    # - name: Contact
-    #   url: contact 
+    # - name: Search
+    #   url: search 
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
