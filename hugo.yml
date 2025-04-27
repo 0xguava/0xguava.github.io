@@ -23,7 +23,7 @@ menu:
     - name: About
       url: about
       weight: 5
-    - name: Blog
+    - name: Blogs
       url: blogs/
       weight: 10
     - name: Projects
