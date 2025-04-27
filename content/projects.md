@@ -1,7 +1,6 @@
 ---
 author : ' '
 title : 'Projects'
-ShowShareButtons : false
 ShowReadingTime : false
 ShowPostNavLinks : false
 ShowBreadCrumbs : true
@@ -23,6 +22,6 @@ which is executed by Github Workflow.
 
 - A `git tag`'s push is all needed to trigger the workflow. Once workflow is completed custom ISO is available in repo's releases for download.
 
-**Demo video**: 
+[Blog](/blogs/auto-install-blog) and [Demo Video](https://github.com/user-attachments/assets/81611158-3fe2-4cf9-bbdb-f9ae7d456a17)
 
 ---
