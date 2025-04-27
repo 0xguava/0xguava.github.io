@@ -28,9 +28,17 @@
 
 .github-card p {
   font-size: 17px;
-  margin-top: 20px;
+  margin-top: 12px;
     margin-bottom: 5px;
 }
+
+.card-heading {
+   display: flex;
+ }
+
+.card-heading h2 {
+   margin: 5px;
+ }
 
 .card-details {
     display: flex;
