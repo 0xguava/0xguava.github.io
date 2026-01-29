@@ -1,6 +1,6 @@
 /* Custom styles added to demo */
 
-.dark {
+* {
   --theme: #000000;
   --entry: #1B1B1B;
 }
@@ -16,6 +16,10 @@
 
 strong {
   color: var(--primary);
+}
+
+.paginav {
+  background: var(--entry);
 }
 
 .share-buttons {
